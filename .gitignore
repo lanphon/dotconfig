@@ -1,0 +1,10 @@
+chromium/*
+systemd/*
+*.bak
+go/*
+xfce4/*
+"Code - OSS/*"
+*~
+*.swp
+*.swo
+ibus/*
