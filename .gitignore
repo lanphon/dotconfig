@@ -8,3 +8,5 @@ xfce4/*
 *.swp
 *.swo
 ibus/*
+./dconf/user
+fcitx5/*
